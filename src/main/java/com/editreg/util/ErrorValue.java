@@ -1,0 +1,8 @@
+package com.editreg.util;
+
+public enum ErrorValue {
+    SELECT_ERROR,COPY_ERROR,
+    DELETE_TEMP_ERROR,DELETE_ORIGIN_ERROR,
+    ADD_JAVA_HOME_ERROR,ADD_PATH_ERROR,
+    RESTORE_ERROR,PATH_ERROR
+}
